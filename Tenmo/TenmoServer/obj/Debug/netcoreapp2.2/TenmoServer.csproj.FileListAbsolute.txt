@@ -1,0 +1,14 @@
+C:\Users\Student\team00-c-sharp-week08-pair-exercises\capstone\TenmoServer\bin\Debug\netcoreapp2.2\TenmoServer.deps.json
+C:\Users\Student\team00-c-sharp-week08-pair-exercises\capstone\TenmoServer\bin\Debug\netcoreapp2.2\TenmoServer.runtimeconfig.json
+C:\Users\Student\team00-c-sharp-week08-pair-exercises\capstone\TenmoServer\bin\Debug\netcoreapp2.2\TenmoServer.runtimeconfig.dev.json
+C:\Users\Student\team00-c-sharp-week08-pair-exercises\capstone\TenmoServer\bin\Debug\netcoreapp2.2\TenmoServer.dll
+C:\Users\Student\team00-c-sharp-week08-pair-exercises\capstone\TenmoServer\bin\Debug\netcoreapp2.2\TenmoServer.pdb
+C:\Users\Student\team00-c-sharp-week08-pair-exercises\capstone\TenmoServer\obj\Debug\netcoreapp2.2\TenmoServer.csprojAssemblyReference.cache
+C:\Users\Student\team00-c-sharp-week08-pair-exercises\capstone\TenmoServer\obj\Debug\netcoreapp2.2\TenmoServer.csproj.CoreCompileInputs.cache
+C:\Users\Student\team00-c-sharp-week08-pair-exercises\capstone\TenmoServer\obj\Debug\netcoreapp2.2\TenmoServer.RazorAssemblyInfo.cache
+C:\Users\Student\team00-c-sharp-week08-pair-exercises\capstone\TenmoServer\obj\Debug\netcoreapp2.2\TenmoServer.RazorAssemblyInfo.cs
+C:\Users\Student\team00-c-sharp-week08-pair-exercises\capstone\TenmoServer\obj\Debug\netcoreapp2.2\TenmoServer.AssemblyInfoInputs.cache
+C:\Users\Student\team00-c-sharp-week08-pair-exercises\capstone\TenmoServer\obj\Debug\netcoreapp2.2\TenmoServer.AssemblyInfo.cs
+C:\Users\Student\team00-c-sharp-week08-pair-exercises\capstone\TenmoServer\obj\Debug\netcoreapp2.2\TenmoServer.RazorTargetAssemblyInfo.cache
+C:\Users\Student\team00-c-sharp-week08-pair-exercises\capstone\TenmoServer\obj\Debug\netcoreapp2.2\TenmoServer.dll
+C:\Users\Student\team00-c-sharp-week08-pair-exercises\capstone\TenmoServer\obj\Debug\netcoreapp2.2\TenmoServer.pdb
